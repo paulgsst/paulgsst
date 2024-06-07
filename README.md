@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **paulgresset3@gmail.com**
 
-- 📄 Know about my experiences [I've already make an app for a phone shop](I've already make an app for a phone shop)
+- 📄 Know about my experiences I've already made an app for a phone shop
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
