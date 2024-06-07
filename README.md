@@ -22,3 +22,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulitoooo&show_icons=true&locale=en&layout=compact" alt="paulitoooo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulitoooo&show_icons=true&locale=en" alt="paulitoooo" /></p>
+
+<h3 align="center">Support:</h3>
+<p><a href="https://ko-fi.com/paulgresset"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="paulgresset" /></a></p><br><br>
