@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate developer from France 🇫🇷</h3>
 
-- 🌱 I’m currently learning **C# , HTML , Javascript , PHP , VueJS , Vuetify**
+- 🌱 I’m currently learning ** TypeScript, React **
 
 - 📫 How to reach me **paulgresset3@gmail.com**
 
