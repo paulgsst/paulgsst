@@ -1,7 +1,5 @@
 <div align = "center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F794&background=FFFFFF00&center=true&random=false&width=435&lines=Hello+!;Welcome+to+my+GitHub+;My+name's+Paul+Gresset" alt="Typing SVG" /></a></div>
 
-<h3 align="center">A passionate developer from France 🇫🇷</h3>
-
 - 🌱 I’m currently learning **TypeScript, React**
 
 - 📫 How to reach me **paulgresset3@gmail.com**
