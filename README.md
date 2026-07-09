@@ -52,6 +52,3 @@
 </div>
 
 <br/><br/>
-
-<h3 align="center">Support:</h3>
-<p><a href="https://ko-fi.com/paulgresset"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="paulgresset" /></a></p><br><br>
